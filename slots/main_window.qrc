@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>Resources/tile.png</file>
+        <file>Resources/apple.png</file>
+        <file>Resources/bananas.png</file>
+        <file>Resources/cherries.png</file>
+        <file>Resources/eggplant.png</file>
+        <file>Resources/grapes.png</file>
+        <file>Resources/orange.png</file>
+        <file>Resources/pear.png</file>
+        <file>Resources/strawberry.png</file>
+        <file>Resources/tomato.png</file>
+    </qresource>
+</RCC>

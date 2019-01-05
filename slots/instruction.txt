@@ -1,5 +1,3 @@
-# SlotMachine
-GUI Project
 Welcome to fruit slot machine games!
 
 // *if the pictures of fruit could not be loaded, change the directory path in main_window.cpp in the Fruits function, also the background image path need to be changed which in the main window ui style sheet.(I don't know if it is the problem my laptop, when I build the project , the path was wrong. If you have problem here, contact me: yuanq@student.tut.fi *//
@@ -11,13 +9,13 @@ Welcome to fruit slot machine games!
 3. Below the combos of fruits, the comment label first shows the text"welcome to the fruit slot machine game". Then, after each spin, it tells you the result of that round. Therefore, the player is always informed.
 
 4. On the right side of the main window, there are few items. Let me explain the functionalities of them.
-4.1  The first one is best_bonus display, it will update the best bonus you have gotten  throughout the whole game.
-4.2  The second one is a top-up function which contains one line edit and one button. The line-edit only accepts positive integer values , otherwise, it pops up the warning message. 
-4.3. The money item below shows the how much money the player has at this moment.
-4.4  The bet item demonstrates the cost of each spin. I set the min value is 1 here.
-If the bet is more than the money you have, it disables lock and spin buttons. Only when the bet is less than or equal to the money you own, you are able to continue playing the game and the buttons will be enabled again.
-4.5  OTTO button withdraws money from Money. The player is able to withdraw money only when the value is in range of 0 to money value. If the value the inputs is greater than Money value, it is gonna pop up warning information.
-4.6  The bottom button of the right side is quit button, whenever you click quit button, it is going to show the result of the game and quit the application.  
+   4.1  The first one is best_bonus display, it will update the best bonus you have gotten  throughout the whole game.
+   4.2  The second one is a top-up function which contains one line edit and one button. The line-edit only accepts positive integer values , otherwise, it pops up the warning message. 
+   4.3. The money item below shows the how much money the player has at this moment.
+   4.4  The bet item demonstrates the cost of each spin. I set the min value is 1 here.
+        If the bet is more than the money you have, it disables lock and spin buttons. Only when the bet is less than or equal to the money you own, you are able to continue playing the game and the buttons will be enabled again.
+   4.5  OTTO button withdraws money from Money. The player is able to withdraw money only when the value is in range of 0 to money value. If the value the inputs is greater than Money value, it is gonna pop up warning information.
+   4.6  The bottom button of the right side is quit button, whenever you click quit button, it is going to show the result of the game and quit the application.  
 
 5. The left side of the main window is three reels with lock button and spin button. The reel is able to show three fruit images at the same time. On the top of each reel, there is a lock button which could lock the spin of reel respectively. If you lock the reel, after a spin, it will switch to the unlocked state by its default. You are able to lock the three locks at the same time, but you are not able to play this game because it does not make any sense if all reels are not functioning and it warns you don't do that.
 
@@ -29,10 +27,10 @@ The spin button can change the pics on the reel randomly. When you click the spi
 
 
 
-
+  
 
 
 YUAN QI 
 267957
-
-
+                       
+        
