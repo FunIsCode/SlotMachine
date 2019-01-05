@@ -27,12 +27,3 @@ The bonus is calculated by five pay lines which include three horizontal pay lin
 
 The spin button can change the pics on the reel randomly. When you click the spin button, it will check the Money first, you do not have any money, it will disable locks and spin button automatically. In the meanwhile, it asks "you do you want to quit the game?", if you answer yes, it quits the game, otherwise, the game asks you to top up money to continue. The buttons will be enabled till you top up money. When everything is fine, the reel starts to spin for randomized time each round and the corresponding information about this round will be displayed on the some labels, such as comment, best_bonus, total money and so on. When the reel is static, you are able to see only three images but when it is spinning, you will see 4 images!
 
-
-
-
-
-
-YUAN QI 
-267957
-
-
